@@ -1,5 +1,5 @@
-## PanelRP
-
+# PanelRP
+### Create your roleplay spaces for your projects 
 <!--
 
 **Here are some ideas to get you started:**
